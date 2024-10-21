@@ -1,3 +1,3 @@
 <p align="center">
-  <h1 align="center">occams razor man</h>
+  <h1 align="center">b</h>
 </p>
